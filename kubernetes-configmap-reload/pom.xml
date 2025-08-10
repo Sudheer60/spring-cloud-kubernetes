@@ -67,7 +67,7 @@
                  <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-compiler-plugin</artifactId>
-  <version>3.14.0</version> <!-- latest stable as of early 2025 -->
+  <version>3.9.1</version> <!-- latest stable as of early 2025 -->
   <configuration>
     <release>21.0.8</release>
   </configuration>
